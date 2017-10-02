@@ -1,2 +1,7 @@
 # hello-wold
-just another repository
+
+
+Hej
+
+
+Jeg hedder Simon HÅHÅ
